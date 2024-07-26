@@ -1,0 +1,24 @@
+{
+    "763c3532-07ac-a840-5d0d-b4bec0df736f": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "9d639a20-5757-4739-a11b-2bddbfb9565d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Woodna.scene.nasset"
+    },
+    "ba35925a-fdc0-487e-8315-55ff72355b7a": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Woodna",
+        "thumbnail": "87c755a8-44a4-affd-3026-06df9535c62e",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "guid": "763c3532-07ac-a840-5d0d-b4bec0df736f",
+    "imported_assets": [
+        "87c755a8-44a4-affd-3026-06df9535c62e"
+    ]
+}
